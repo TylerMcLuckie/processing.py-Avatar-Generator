@@ -208,6 +208,6 @@ Potential enhancements:
 
 ---
 
-# Author
+## Author
 
-Experimental generative art project inspired by abstract portrait composition and Picasso-style aesthetics.
+[Tyler Mc Luckie](https://tylermcluckie.github.io) · [ntmdigital.co](https://ntmdigital.co)
